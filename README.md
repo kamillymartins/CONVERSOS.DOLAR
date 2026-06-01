@@ -35,6 +35,7 @@ O sistema solicita a cotação atual do dólar e o valor em reais que deseja ser
 
 ## ▶️ Como Executar
 
+![imagemdolar](https://github.com/kamillymartins/CONVERSOS.DOLAR/blob/main/imagemdolar.png)
 
 ## 💻 Exemplo de Uso
 
